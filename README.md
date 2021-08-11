@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![image alt](https://i.imgur.com/fVGk2Cs.gif)
+![](https://i.imgur.com/aLTT74f.gif)
+
 
 GIF created with ezgif.com
 
